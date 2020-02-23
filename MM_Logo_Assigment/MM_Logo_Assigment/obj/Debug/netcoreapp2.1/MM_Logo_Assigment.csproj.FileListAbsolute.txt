@@ -1,0 +1,11 @@
+C:\Users\Anton\source\repos\MM_Logo_Assigment\MM_Logo_Assigment\bin\Debug\netcoreapp2.1\MM_Logo_Assigment.deps.json
+C:\Users\Anton\source\repos\MM_Logo_Assigment\MM_Logo_Assigment\bin\Debug\netcoreapp2.1\MM_Logo_Assigment.runtimeconfig.json
+C:\Users\Anton\source\repos\MM_Logo_Assigment\MM_Logo_Assigment\bin\Debug\netcoreapp2.1\MM_Logo_Assigment.runtimeconfig.dev.json
+C:\Users\Anton\source\repos\MM_Logo_Assigment\MM_Logo_Assigment\bin\Debug\netcoreapp2.1\MM_Logo_Assigment.dll
+C:\Users\Anton\source\repos\MM_Logo_Assigment\MM_Logo_Assigment\bin\Debug\netcoreapp2.1\MM_Logo_Assigment.pdb
+C:\Users\Anton\source\repos\MM_Logo_Assigment\MM_Logo_Assigment\obj\Debug\netcoreapp2.1\MM_Logo_Assigment.csprojAssemblyReference.cache
+C:\Users\Anton\source\repos\MM_Logo_Assigment\MM_Logo_Assigment\obj\Debug\netcoreapp2.1\MM_Logo_Assigment.csproj.CoreCompileInputs.cache
+C:\Users\Anton\source\repos\MM_Logo_Assigment\MM_Logo_Assigment\obj\Debug\netcoreapp2.1\MM_Logo_Assigment.AssemblyInfoInputs.cache
+C:\Users\Anton\source\repos\MM_Logo_Assigment\MM_Logo_Assigment\obj\Debug\netcoreapp2.1\MM_Logo_Assigment.AssemblyInfo.cs
+C:\Users\Anton\source\repos\MM_Logo_Assigment\MM_Logo_Assigment\obj\Debug\netcoreapp2.1\MM_Logo_Assigment.dll
+C:\Users\Anton\source\repos\MM_Logo_Assigment\MM_Logo_Assigment\obj\Debug\netcoreapp2.1\MM_Logo_Assigment.pdb
